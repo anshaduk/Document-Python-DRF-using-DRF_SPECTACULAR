@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: Django project documentation.
+  version: 1.0.0
+  description: This is the documentation of our product backend.
+paths: {}
+components: {}
